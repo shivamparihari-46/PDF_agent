@@ -22,7 +22,7 @@ file = st.file_uploader("Upload PDF", type=["pdf"])
 
 sections = [
     "Summary",
-    "Key Legislative Sections (JSON)",
+    "Key Legislative Sections (JSON)",~
     "Legislative Rule Checks",
     "Generate Full Final Report JSON"
 ]

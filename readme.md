@@ -60,14 +60,17 @@ Outputs each check as JSON with:status, evidence and confidence score
 
 Combines Summary ,Key sections, Rule results and exports them into "final_report.json" for submission.
 
-## 🚀 Tech Stack <br>
-Component	Tools Used <br>
-LLM	:Google Gemini 2.5 Flash <br>
-Framework:LangChain <br>
-UI:	Streamlit <br>
-PDF Loading:PyPDFLoader <br>
-JSON Parsing:LangChain JSON Parser<br>
-Environment	Python 3.11 + Virtualenv<br>
+## 🚀 Tech Stack
+
+| Component       | Tools / Libraries Used           |
+|-----------------|----------------------------------|
+| **LLM**         | Google Gemini 2.5 Flash          |
+| **Framework**   | LangChain                        |
+| **UI**          | Streamlit                        |
+| **PDF Loader**  | PyPDFLoader                      |
+| **JSON Parser** | LangChain JSON Parser            |
+| **Environment** | Python 3.11 + Virtualenv         |
+
 
 ## 📁 Project Structure<br>
 ```
@@ -83,8 +86,8 @@ Environment	Python 3.11 + Virtualenv<br>
 ```
 ## ⚙️Installation & Setup
 1. Clone the Repo
-git clone https://github.com/<your-username>/legislative-pdf-agent.git
-cd legislative-pdf-agent
+git clone https://github.com/shivamparihari-46/PDF_agent.git
+cd PDF_agent
 
 2. Create Virtual Environment
 python -m venv venv
