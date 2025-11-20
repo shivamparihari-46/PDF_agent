@@ -103,7 +103,7 @@ Create a .env file:
 
 GOOGLE_API_KEY=your_key_here
 
-5. Run the App
+5. Run the App<br>
 streamlit run project.py
 
 ## 🖼️ How It Works
