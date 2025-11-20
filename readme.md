@@ -89,8 +89,8 @@ Combines Summary ,Key sections, Rule results and exports them into "final_report
 git clone https://github.com/shivamparihari-46/PDF_agent.git
 cd PDF_agent
 
-2. Create Virtual Environment
-python -m venv venv
+2. Create Virtual Environment<br>
+python -m venv venv<br>
 source venv/bin/activate    # macOS/Linux<br>
 venv\Scripts\activate       # Windows<br>
 
