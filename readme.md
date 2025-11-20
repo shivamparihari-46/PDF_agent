@@ -91,8 +91,8 @@ cd PDF_agent
 
 2. Create Virtual Environment
 python -m venv venv
-source venv/bin/activate    # macOS/Linux
-venv\Scripts\activate       # Windows
+source venv/bin/activate    # macOS/Linux<br>
+venv\Scripts\activate       # Windows<br>
 
 3. Install Requirements
 pip install -r requirements.txt
@@ -100,7 +100,6 @@ pip install -r requirements.txt
 4. Add API Key
 
    Create a .env file:
-
    GOOGLE_API_KEY=your_key_here
 
 5. Run the App:<br>
