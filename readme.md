@@ -104,7 +104,7 @@ Create a .env file:
 GOOGLE_API_KEY=your_key_here
 
 5. Run the App
-streamlit run proj.py
+streamlit run project.py
 
 ## 🖼️ How It Works
 ```
